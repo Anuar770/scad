@@ -1,1 +1,1 @@
-print("azazazazazza")
+print("предложение")
